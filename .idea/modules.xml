@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpringMicroservices.iml" filepath="$PROJECT_DIR$/.idea/SpringMicroservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-limits-services/limits-services.iml" filepath="$PROJECT_DIR$/spring-cloud-limits-services/limits-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-api-gateway/spring-cloud-api-gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-api-gateway/spring-cloud-api-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" filepath="$PROJECT_DIR$/spring-cloud-config-server/spring-cloud-config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-currency-conversion/spring-cloud-currency-conversion.iml" filepath="$PROJECT_DIR$/spring-cloud-currency-conversion/spring-cloud-currency-conversion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-currency-exchange/spring-cloud-currency-exchange.iml" filepath="$PROJECT_DIR$/spring-cloud-currency-exchange/spring-cloud-currency-exchange.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-naming-server/spring-cloud-naming-server.iml" filepath="$PROJECT_DIR$/spring-cloud-naming-server/spring-cloud-naming-server.iml" />
+    </modules>
+  </component>
+</project>

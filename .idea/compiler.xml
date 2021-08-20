@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-cloud-api-gateway" />
+        <module name="spring-cloud-naming-server" />
+        <module name="limits-services" />
+        <module name="spring-cloud-currency-conversion" />
+        <module name="spring-cloud-currency-exchange" />
+        <module name="spring-cloud-config-server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="limits-services" target="11" />
+      <module name="spring-cloud-api-gateway" target="11" />
+      <module name="spring-cloud-config-server" target="11" />
+      <module name="spring-cloud-currency-conversion" target="11" />
+      <module name="spring-cloud-currency-exchange" target="11" />
+      <module name="spring-cloud-naming-server" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="limits-services" options="-parameters" />
+      <module name="spring-cloud-api-gateway" options="-parameters" />
+      <module name="spring-cloud-config-server" options="-parameters" />
+      <module name="spring-cloud-currency-conversion" options="-parameters" />
+      <module name="spring-cloud-currency-exchange" options="-parameters" />
+      <module name="spring-cloud-naming-server" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,5 @@
+com/springcloudcurrencyexchange/controller/CurrencyExchangeController.class
+com/springcloudcurrencyexchange/repository/CurrencyExchangeRepository.class
+com/springcloudcurrencyexchange/beans/CurrencyExchange.class
+com/springcloudcurrencyexchange/SpringCloudCurrencyExchangeApplication.class
+com/springcloudcurrencyexchange/controller/CircuitBreakerController.class
