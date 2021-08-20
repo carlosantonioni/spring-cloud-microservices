@@ -76,6 +76,5 @@ services:
     networks:
       - currency-network
 
-
 networks:
   currency-network:
